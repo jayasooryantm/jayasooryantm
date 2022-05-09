@@ -1,11 +1,9 @@
-### Hi there 👋
-
 <h1 align="center">Hey there, I'm Jayasooryan</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **Sustainable Future Project**
+- 🔭 I’m currently working on **Sustainable Future Project (Research Assistant for Air Quality Prediction Project)**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **jayasooryan.tm@outlook.com**
 
