@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Sustainable Future Project (Research Assistant for Air Quality Prediction Project)**
 
-- 🌱 I’m currently learning **Deep Learning**
-
 - 📫 How to reach me **jayasooryan.tm@outlook.com**
 
 
