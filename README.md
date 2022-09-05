@@ -1,4 +1,12 @@
-Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jayasooryan TM ======================================================================================================================================  Machine Learning Engineer -------------------------  I’m currently working on Sustainable Future Project (Research Assistant for Air Quality Prediction Project)  * 🌍  I'm based in Cambridge * ✉️  You can contact me at [jayasooryan.tm@outlook.com](mailto:jayasooryan.tm@outlook.com) * 🧠  I'm learning PyTorch
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jayasooryan TM 
+
+Machine Learning Engineer 
+-------------------------  
+
+I’m currently working on Sustainable Future Project (Research Assistant for Air Quality Prediction Project)  
+* 🌍  I'm based in Cambridge 
+* * ✉️  You can contact me at [jayasooryan.tm@outlook.com](mailto:jayasooryan.tm@outlook.com) 
+* * 🧠  I'm learning PyTorch
 
 ### Skills
 
