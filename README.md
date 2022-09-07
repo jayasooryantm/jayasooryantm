@@ -5,8 +5,8 @@ Machine Learning Engineer
 
 I’m currently working on Sustainable Future Project (Research Assistant for Air Quality Prediction Project)  
 * 🌍  I'm based in Cambridge 
-* * ✉️  You can contact me at [jayasooryan.tm@outlook.com](mailto:jayasooryan.tm@outlook.com) 
-* * 🧠  I'm learning PyTorch
+* ✉️  You can contact me at [jayasooryan.tm@outlook.com](mailto:jayasooryan.tm@outlook.com) 
+* 🧠  I'm learning PyTorch
 
 ### Skills
 
