@@ -20,10 +20,7 @@ I’m currently working on Low Code Web Development Platform.
 <a href="http://www.github.com/jayasooryantm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasooryantm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/jayasooryantm"><img src="https://activity-graph.herokuapp.com/graph?username=jayasooryantm&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/jayasooryantm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasooryantm&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/jayasooryantm/scratch-neural-network" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jayasooryantm&repo=scratch-neural-network&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jayasooryantm/morning_allocation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jayasooryantm&repo=morning_allocation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+</br></br></br>
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/jaysu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
