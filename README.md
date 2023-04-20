@@ -8,6 +8,8 @@ I am a data analyst based in Cambridge with expertise in advanced data analysis 
 - Machine learning and predictive modeling
 - Database management and SQL
 
+[Verify Google Badge](https://www.credly.com/badges/8755343a-9e4a-4cd8-927d-c4acf1451c2c)
+
 ## 📈 Tech Stack
 I am proficient in the following technologies:
 
